@@ -1,0 +1,84 @@
+[33mcommit 45221652b3753ae5d5e0f62888b579c96685fa50[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: finn <shifanfinn@163.com>
+Date:   Mon Jan 17 14:17:12 2022 +0800
+
+    =remove a book
+
+[33mcommit 809428debf348b9d42bf754823c6e0805824ef41[m
+Author: finn <shifanfinn@163.com>
+Date:   Mon Jan 17 14:14:30 2022 +0800
+
+    =Update a deque question
+
+[33mcommit 99c9092874d2dbc7c142109b19ce4a898faee6a8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: finn <shifanfinn@163.com>
+Date:   Sun Jan 16 19:16:55 2022 +0800
+
+    =更新一道动态规划题
+
+[33mcommit a0a3afeafed4c868ffae763137661de35790f6c9[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: ed68553 915035b
+Author: finn <shifanfinn@163.com>
+Date:   Thu Jul 1 10:32:40 2021 +0800
+
+    Merge branch 'main' of github.com:FinnSHI/LeetCode
+
+[33mcommit ed685533f8a39052c559afa600264275525cad3e[m
+Author: finn <shifanfinn@163.com>
+Date:   Thu Jul 1 10:32:20 2021 +0800
+
+    [update-448]
+
+[33mcommit af7f8d3671667300a1713babc4e05b0ce489116c[m
+Author: finn <shifanfinn@163.com>
+Date:   Thu Jul 1 10:18:48 2021 +0800
+
+    update 448
+
+[33mcommit 915035b37bd588bc6e5da1e58ec9adcd5fd32168[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 18:05:48 2021 +0800
+
+    Update README.md
+
+[33mcommit cda13e6c7e68c31617f09cac19c0079344b3a140[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 18:05:23 2021 +0800
+
+    Update README.md
+
+[33mcommit a9a4c8db9a259fe0ba947388056af682133450db[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 18:02:19 2021 +0800
+
+    Update README.md
+
+[33mcommit 75f98a176a2855b4125e595c4b0a24c0e989ace7[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 18:01:07 2021 +0800
+
+    Update README.md
+
+[33mcommit 78c546cca1f055c9b4471ec5283bbfc28be819cd[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 18:00:58 2021 +0800
+
+    Update README.md
+
+[33mcommit 2943d8716e81e852351b125122aedf2ddda1202c[m
+Author: finn <shifanfinn@163.com>
+Date:   Tue Jun 29 17:27:09 2021 +0800
+
+    提交信息
+
+[33mcommit 1401b8f8cab00afae278055136e9e8d18a234b84[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 17:18:42 2021 +0800
+
+    Delete README.md
+
+[33mcommit f92c6e1b587c1019f8c0def5178e2073851c7016[m
+Author: Finn SHI <shifanfinn@163.com>
+Date:   Tue Jun 29 17:16:26 2021 +0800
+
+    Create README.md
