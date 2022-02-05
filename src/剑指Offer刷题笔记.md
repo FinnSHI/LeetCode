@@ -21,7 +21,7 @@
 
 ![image-20210913180516076](E:\Typora_Documents\Data Structure\imgs\数据结构.assets\image-20210913180516076.png)
 
-<img src="E:\Typora_Documents\Data Structure\imgs\数据结构.assets\image-20210924154023676.png" alt="image-20210924154023676" style="zoom:50%;" />
+<img src="https://gitee.com/FinnSHI/PicBed/raw/master/imgs/202202041624471.png" alt="image-20210924154023676" style="zoom:50%;" />
 
 
 
